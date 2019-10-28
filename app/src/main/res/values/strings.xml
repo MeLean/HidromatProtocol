@@ -16,5 +16,8 @@
 
     <string name="available_protocols">Налични протоколи</string>
     <string name="create_new_protocol">Създай нов протокол</string>
+    <string name="signClient">Подписва от клиента</string>
+    <string name="signFirm">Подписва от фирмата</string>
+    <string name="no_protocol_saved_text">Няма запазени протоколи, създайте нов като натиснете бутона отдолу ;)</string>
 
 </resources>
